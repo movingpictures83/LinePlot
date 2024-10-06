@@ -1,0 +1,2 @@
+Prefix plugins/LinePlot/example/
+Plugin LinePlot inputfile groupKD.rds outputfile line.pdf
